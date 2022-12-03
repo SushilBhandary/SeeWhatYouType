@@ -6,7 +6,7 @@ The website focuses on learning DOM manipulation .
 - querySelector
 - innerHTML
 
-## [Live Preview]()
+## [Live Preview](https://seee-what-you-type.netlify.app/)
 
 ### SnapShot of the Webpage
 
